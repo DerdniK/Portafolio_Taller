@@ -1,1 +1,1 @@
-Modificando el README intento #2
+Portafolio personal subido únicamente para familiarizarme con git. :)
